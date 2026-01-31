@@ -17,5 +17,5 @@ Let me tell you little things about me:
 
 <p align="center"> 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=anggito-m&layout=compact&theme=radical" alt="Top Languages"/> -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggito-m&layout=donut-vertical)](https://github.com/anggito-m/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anggito-m&layout=donut-vertical)]
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anggito-m&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></p>
